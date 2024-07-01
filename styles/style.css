@@ -3,7 +3,7 @@
     align-items: center;
     justify-content: space-between;
     width: 1184px;
-    width: 90%;
+    width: 80%;
     background-color: aqua;
     height: 113px;
     margin: 0 auto;
@@ -76,61 +76,149 @@
     text-align: left;
     color: rgba(238, 238, 238, 1);
 }
-.hederBOLODiv{
+
+.hederBOLODiv {
     display: flex;
     align-items: center;
     gap: 32px;
 }
-.fa-solid{
+
+.fa-solid {
     width: 39.98px;
-   color: rgba(93, 80, 198, 1);
+    color: rgba(93, 80, 198, 1);
 }
-.icalsFirst{
+
+.icalsFirst {
     display: none;
 }
-@media only screen and (max-width:1024px){
-.hederDIv{
-    width: 90%;
-}
-.navmenFDist{
-    display: none;
-}
-.icalsFirst{
-    display: block;
-}
-.imageDivANd-Logo{
-  margin-left: 100px;
+
+/* aqedan iwyeba mian */
+
+.mainFirst-BIGDiv {
+    display: flex;
+    max-width: 1184px;
+    max-width: 80%;
+    background-color: rgb(96, 102, 102);
+    margin: auto;
 }
 
-
-}
-@media only screen and (max-width:744px){
-    .hederBOLODiv{
-        display: none;
-    }   
-}
-@media only screen and (max-width:430px){
-    .hederBOLODiv{
-        display: none;
-    }
-    .icalsFirst{
-        order: 3;
-    }
-    .imageDivANd-Logo{
-        margin: 0;
-    }
-
-
-   
-}
-@media only screen and (max-width:320px){
-    .hederDIv{
-        width: 100%;
-    }
-
-
-    
+.trevelTop {
+    width: 350px;
+    font-family: "Oswald", sans-serif;
+    font-size: 69px;
+    font-weight: 700;
+    line-height: 82.8px;
 }
 
+.marcXena-Bloki {
+    display: flex;
+    flex-direction: column;
+    gap: 43px;
+    max-width: 412px;
+    background-color: red;
+    margin-top: 64px;
+}
+
+.sapnTegg {
+    color: rgba(248, 94, 159, 1);
+}
+
+.waalwais {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: left;
+    color: rgba(25, 24, 37, 0.5);
+    width: 300px;
+}
+
+.Getstarted {
+    width: 141px;
+    font-family: Circular Std;
+    font-size: 14px;
+    font-weight: 700;
+    color: rgba(238, 238, 238, 1);
+    padding: 16px 32px 16px 32px;
+    gap: 8px;
+    border-radius: 100px;
+    background-color: rgba(93, 80, 198, 1);
+
+}
+
+.imagesMOl {
+    width: 20px;
+    height: 20px;
+}
+
+.watChDemo {
+    width: 85px;
+    font-family: Circular Std;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16.8px;
+}
+
+.starTEdDIv {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+
+}
+
+.imageGap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.imageDedamiwa {
+    max-width: 772px;
+    max-width: 100%;
+}
+
+.marjvena-bloki {
+    margin-top: 160px;
+}
+
+.meoreSectionDiv {
+    max-width: 1184px;
+    max-width: 80%;
+    margin: auto;
+    background-color: rgb(83, 83, 83);
 
 
+}
+.abitz{
+    width: 168.08px;
+}
+.trawizp{
+    color: rgb(25, 24, 37, 0.5);
+    font-size: 25px;
+font-family:"Noto Sans",sans-serif ;
+
+}
+.buuu{
+    width: 42.35px;
+}
+
+.busDiv{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.bookinG{
+    font-size: 25px;
+    color: rgb(25, 24, 37, 0.5);
+    font-family:"Noto Sans",sans-serif ;
+}
+.mamodZraevbeliN1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 160px;
+}
+.samkutxa{
+    width: 100px;
+}

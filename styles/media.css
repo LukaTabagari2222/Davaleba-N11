@@ -1,0 +1,175 @@
+@media only screen and (max-width:1024px) {
+    .hederDIv {
+        width: 80%;
+    }
+
+    .navmenFDist {
+        display: none;
+    }
+
+    .icalsFirst {
+        display: block;
+    }
+
+    .imageDivANd-Logo {
+        margin-left: 100px;
+    }
+
+
+
+
+
+    .imageDedamiwa {
+        width: 100%;
+    }
+
+    .mainFirst-BIGDiv {
+        max-width: 80%;
+        flex-direction: column-reverse;
+    }
+
+    .marcXena-Bloki {
+        align-items: center;
+        max-width: 100%;
+        text-align: center;
+    }
+
+    .trevelTop {
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 67.2px;
+        width: 65%;
+
+    }
+
+    .waalwais {
+        text-align: center;
+        align-items: center;
+        width: 100%;
+    }
+
+
+
+    .meoreSectionDiv {
+        max-width: 80%;
+    }
+
+    .mamodZraevbeliN1 {
+        display: flex;
+        justify-content: center;
+        height: 100%;
+        flex-wrap: wrap;
+        gap: 32px;
+    }
+
+
+
+}
+
+@media only screen and (max-width:744px) {
+    .hederBOLODiv {
+        display: none;
+    }
+
+
+
+    .trevelTop {
+        width: 100%;
+    }
+
+}
+
+@media only screen and (max-width:430px) {
+    .hederBOLODiv {
+        display: none;
+    }
+
+    .icalsFirst {
+        order: 3;
+    }
+
+    .imageDivANd-Logo {
+        margin: 0;
+    }
+    .marcXena-Bloki {
+        margin-top: 32px;
+    }
+
+
+
+
+    
+
+
+    .meoreSectionDiv{
+        margin-top: 44px;
+    }
+    .trevelTop {
+        width: 100%;
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 48px;
+        text-align: center;
+
+    }
+
+    .waalwais {
+        width: 100%;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 25.6px;
+        text-align: center;
+
+    }
+
+    .starTEdDIv {
+        flex-direction: column;
+        gap: 24px;
+    }
+
+    .Getstarted {
+        width: 200%;
+    }
+
+    .mamodZraevbeliN1 {
+        display: flex;
+        height: 100%;
+        flex-wrap: wrap;
+        gap: 2px;
+
+    }
+    .trawizp{
+        font-size: 15px;
+    }
+    .buuu{
+        width: 25px
+    }
+    .wxpedia{
+        width: 100px;
+    }
+    .bookinG{
+        font-size: 15px;
+    }
+    .samkutxa{
+        width: 100px;
+    }
+    .abitz{
+        width: 100px;
+
+    }
+
+}
+
+@media only screen and (max-width:320px) {
+    .hederDIv {
+        width: 100%;
+    }
+
+
+.mamodZraevbeliN1{
+    flex-direction: column;
+}
+.meoreSectionDiv{
+    margin-top: 5px;
+ }
+}
