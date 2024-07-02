@@ -190,35 +190,221 @@
 
 
 }
-.abitz{
+
+.abitz {
     width: 168.08px;
 }
-.trawizp{
+
+.trawizp {
     color: rgb(25, 24, 37, 0.5);
     font-size: 25px;
-font-family:"Noto Sans",sans-serif ;
+    font-family: "Noto Sans", sans-serif;
 
 }
-.buuu{
+
+.buuu {
     width: 42.35px;
 }
 
-.busDiv{
+.busDiv {
     display: flex;
     align-items: center;
     gap: 5px;
 }
-.bookinG{
+
+.bookinG {
     font-size: 25px;
     color: rgb(25, 24, 37, 0.5);
-    font-family:"Noto Sans",sans-serif ;
+    font-family: "Noto Sans", sans-serif;
 }
-.mamodZraevbeliN1{
+
+.mamodZraevbeliN1 {
     display: flex;
     align-items: center;
     justify-content: space-between;
     height: 160px;
 }
-.samkutxa{
+
+.samkutxa {
     width: 100px;
+}
+
+.DidiSeqciaN3 {
+    max-width: 1184px;
+    max-width: 80%;
+    background-color: cadetblue;
+    margin: auto;
+}
+
+.mosawesRigebeliDivi {
+    margin-top: 37px;
+}
+
+.topdestInation {
+    font-family: Circular Std;
+    font-size: 23px;
+    font-weight: 700;
+    color: rgba(248, 94, 159, 1);
+
+}
+
+.exploreTop {
+    font-family: Circular Std;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 52.8px;
+    color: rgba(25, 24, 37, 1);
+}
+
+.gapppDiv {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.isarimarcxen {
+    width: 24px;
+    margin-bottom: 70px;
+}
+
+.isariwreshi {
+    width: 100px;
+}
+
+.iageiSarDIV {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    gap: 32px;
+
+
+}
+
+.somlbloCkDIv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.fristblockA {
+    display: flex;  
+}
+
+.paradisea {
+    font-family: Circular Std;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 27.6px;
+    color: rgba(25, 24, 37, 1);
+    width: 228px;
+}
+
+.fiftfive {
+    font-family: Circular Std;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 27.6px;
+    color: rgba(248, 94, 159, 1);
+}
+
+
+.romeitali {
+    color: rgb(100, 99, 99);
+    justify-content: center;
+    margin-top: 16px;
+}
+
+.otxiRva {
+    display: block;
+    margin-top: 32px;
+    
+    
+
+}
+
+.imageZgva {
+    display: block;
+    max-width: 373px;
+    max-width: 100%;
+ 
+}
+
+.tevziimG {
+    display: block;
+    max-width: 373px;
+    max-width: 100%;
+
+}
+.mtta{
+    display: block;
+    max-width: 373px;
+    max-width: 100%;
+
+}
+
+.tevzisTeqsti {
+    display: flex;
+    gap: 38px;
+}
+
+.oCemawith {
+    width: 185px;
+    font-family: Circular Std;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 27.6px;
+    color: black;
+
+}
+
+.tveni {
+    font-family: Circular Std;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 27.6px;
+    color: rgba(248, 94, 159, 1);
+}
+
+.malidves {
+    color: rgb(116, 114, 112);
+    margin-top: 16px;
+}
+
+.otXiXuti {
+    width: 66px;
+    margin-top: 32px;
+}
+.TevzebisMatvariDIvi{
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+}
+.tTasStrings{
+    display: flex;
+}
+.motivation{
+width: 200px;
+font-family: Circular Std;
+font-size: 23px;
+font-weight: 700;
+line-height: 27.6px;
+
+}
+.handvridfifiti{
+    font-family: Circular Std;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 27.6px;
+color: rgba(248, 94, 159, 1);    
+}
+.untedarab{
+margin-top: 16px;
+color: rgb(116, 116, 113);
+
+}
+.xutt{
+ width: 66px;
+ margin-top: 32px;
 }

@@ -62,6 +62,71 @@
         gap: 32px;
     }
 
+    .somlbloCkDIv {
+        flex-direction: column;
+    }
+
+    .gapppDiv {
+        text-align: center;
+        justify-content: center;
+    }
+
+    .iageiSarDIV {
+        margin-top: 50px;
+    }
+
+
+
+
+    .imageZgva {
+        max-width: 90%;
+    }
+
+    .tevziimG {
+        max-width: 90%;
+    }
+
+    .mtta {
+        max-width: 90%;
+    }
+
+    .TevzebisMatvariDIvi {
+        width: 100%;
+    }
+    .asas {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .tTasStrings {
+        width: 80%;
+    }
+
+    .tevzisTeqsti {
+        flex-direction: column-reverse;
+        width: 100%;
+        gap: 8px;
+    }
+
+    .motivation {
+        width: 70%;
+    }
+
+    .fristblockA {
+        gap: 8px;
+        flex-direction: column-reverse;
+    }
+
+    .tTasStrings {
+        flex-direction: column-reverse;
+    }
+
+    .paradisea {
+        width: 70%;
+    }
+
+
 
 
 }
@@ -75,6 +140,21 @@
 
     .trevelTop {
         width: 100%;
+    }
+    .TevzebisMatvariDIvi {
+        align-items: center;
+         flex-direction: column;
+    }
+    .imageZgva {
+        max-width: 100%;
+    }
+
+    .tevziimG {
+        max-width: 100%;
+    }
+
+    .mtta {
+        max-width: 100%;
     }
 
 }
@@ -91,6 +171,7 @@
     .imageDivANd-Logo {
         margin: 0;
     }
+
     .marcXena-Bloki {
         margin-top: 32px;
     }
@@ -98,12 +179,13 @@
 
 
 
-    
 
 
-    .meoreSectionDiv{
+
+    .meoreSectionDiv {
         margin-top: 44px;
     }
+
     .trevelTop {
         width: 100%;
         font-size: 40px;
@@ -138,38 +220,148 @@
         gap: 2px;
 
     }
-    .trawizp{
+
+    .trawizp {
         font-size: 15px;
     }
-    .buuu{
+
+    .buuu {
         width: 25px
     }
-    .wxpedia{
+
+    .wxpedia {
         width: 100px;
     }
-    .bookinG{
+
+    .bookinG {
         font-size: 15px;
     }
-    .samkutxa{
+
+    .samkutxa {
         width: 100px;
     }
-    .abitz{
+
+    .abitz {
         width: 100px;
 
     }
+
+
+
+    .exploreTop {
+        width: 100%;
+        font-family: Circular Std;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 38.4px;
+        text-align: center;
+
+    }
+
+    .topdestInation {
+        font-family: Circular Std;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 19.2px;
+        text-align: center;
+
+    }
+
+    .mosawesRigebeliDivi {
+        margin-top: 107px;
+    }
+
+    .iageiSarDIV {
+        gap: 160px;
+    }
+
+
+    .oCemawith{
+        width: 100%;
+    }
+    .paradisea{
+        width: 100%;
+    }
+    .motivation{
+        width: 100%;
+    }
+    
+    .imageZgva {
+        max-width: 100%;
+    }
+
+    .tevziimG {
+        max-width: 100%;
+    }
+
+    .mtta {
+        max-width: 100%;
+    }
+
+   
 
 }
 
 @media only screen and (max-width:320px) {
     .hederDIv {
-        width: 100%;
+        width: 80%;
     }
 
 
-.mamodZraevbeliN1{
-    flex-direction: column;
+    .mamodZraevbeliN1 {
+        flex-direction: column;
+    }
+
+    .meoreSectionDiv {
+        margin-top: 15px;
+    }
+
+    .iageiSarDIV {
+        gap: 10px;
+    }
+
+    .somlbloCkDIv {
+        padding-top: 20px;
+    }
+
+       .pirveliTevzi{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .fristblockA{
+        text-align: center;
+        align-items: center;
+    }
+.tevzisTeqsti{
+    width: 100%;
+    text-align: center;
+    align-items: center;
 }
-.meoreSectionDiv{
-    margin-top: 5px;
- }
+.malidves{
+    width: 100%;
+    text-align: center;
+    align-items: center; 
+}
+.otXiXuti{
+
+  margin-left: 90px;
+
+    text-align: center;
+    align-items: center;  
+}
+.tTasStrings{
+    width: 100%;
+    text-align: center ;
+      align-items: center;
+}
+.untedarab{
+    width: 100%;
+    text-align: center ;
+      align-items: center; 
+}
+.xutt{
+  margin-left: 60px;
+}
+
 }
