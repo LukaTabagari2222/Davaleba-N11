@@ -60,6 +60,7 @@
         height: 100%;
         flex-wrap: wrap;
         gap: 32px;
+        margin-top: 64px;
     }
 
     .somlbloCkDIv {
@@ -91,8 +92,10 @@
     }
 
     .TevzebisMatvariDIvi {
+
         width: 100%;
     }
+
     .asas {
         display: flex;
         justify-content: center;
@@ -126,36 +129,88 @@
         width: 70%;
     }
 
+    .mosawesRigebeliDivi{
+        margin-top: 100px;
+    }
 
 
 
 
 
 
-.meotxeSeqciis-mowesrigeba{
-    flex-direction: column;
-    gap: 0px;
-}
-.right-block{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-}
-.Contaryy{
-    text-align: center;
-    width: 70%;
-}
-.Xut500{
-   padding: 80px;
-   width: 100%;
-  
-}
-.MEotxeBIG-SecTion{
-    width: 100%;
-}
+    .meotxeSeqciis-mowesrigeba {
+        flex-direction: column;
+        gap: 0px;
+    }
+
+    .right-block {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        margin-top: 64px;
+    }
+
+    .Contaryy {
+        text-align: center;
+        width: 70%;
+    }
+
+    .Xut500 {
+        padding: 80px;
+        width: 100%;
+
+    }
+
+    .MEotxeBIG-SecTion {
+        width: 100%;
+    }
 
 
+
+    .Stringsdiv {
+        align-items: center;
+    }
+
+    .weoffer {
+        font-family: "Roboto", sans-serif;
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 48px;
+        text-align: center;
+
+    }
+
+    .contaynery {
+        width: 70%;
+        text-align: center;
+    }
+
+    .momawrsrigebeliN5 {
+        margin-top: 70px;
+    }
+
+
+    .contynaryy{
+        width: 90%;
+    }
+    .iconesDiv{
+        margin-top: 32px;
+    }
+
+
+
+
+    .fofoterDivWesrig{
+        flex-direction: column;
+        gap: 64px;
+    }
+    .footer-Rigtconteiner{
+        justify-content: space-between;
+    }
+    .Rstret{
+        width: 100%;
+    }
 }
 
 @media only screen and (max-width:744px) {
@@ -168,10 +223,12 @@
     .trevelTop {
         width: 100%;
     }
+
     .TevzebisMatvariDIvi {
         align-items: center;
-         flex-direction: column;
+        flex-direction: column;
     }
+
     .imageZgva {
         max-width: 100%;
     }
@@ -183,19 +240,20 @@
     .mtta {
         max-width: 100%;
     }
-    
 
 
 
-    .wehalping{
+
+    .wehalping {
         text-align: center;
         width: 100%;
     }
-    .Xut500{
-        padding:50px;
+
+    .Xut500 {
+        padding: 50px;
         width: 100%;
-       
-     }
+
+    }
 
 }
 
@@ -242,6 +300,9 @@
         line-height: 25.6px;
         text-align: center;
 
+    }
+    .somlbloCkDIv{
+        margin-top: 107px;
     }
 
     .starTEdDIv {
@@ -308,6 +369,7 @@
     }
 
     .mosawesRigebeliDivi {
+        gap: 20px;
         margin-top: 17px;
     }
 
@@ -316,16 +378,18 @@
     }
 
 
-    .oCemawith{
+    .oCemawith {
         width: 100%;
     }
-    .paradisea{
+
+    .paradisea {
         width: 100%;
     }
-    .motivation{
+
+    .motivation {
         width: 100%;
     }
-    
+
     .imageZgva {
         max-width: 100%;
     }
@@ -340,44 +404,166 @@
 
 
 
-    .wehalping{
- font-family: Circular Std;
-font-size: 32px;
-font-weight: 700;
-line-height: 38.4px;
-text-align: center;
+    .wehalping {
+        font-family: Circular Std;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 38.4px;
+        text-align: center;
 
     }
-    .Contaryy{
+
+    .Contaryy {
         width: 80%;
-font-family: Inter;
-font-size: 16px;
-font-weight: 400;
-line-height: 25.6px;
-text-align: center;
+        font-family: Inter;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 25.6px;
+        text-align: center;
 
     }
-    .otxiBliki{
+
+    .otxiBliki {
         width: 100%;
         gap: 16px;
     }
 
-.oriBLokiDIv{
-    gap: 16px;
+    .oriBLokiDIv {
+        gap: 16px;
+        flex-direction: column;
+    }
+
+    .Xut500 {
+        gap: 0px;
+    }
+
+    .TwuBlocks-Divfle {
+        gap: 16px;
+        flex-direction: column;
+    }
+
+    .MEotxeBIG-SecTion {
+        margin-top: 32px;
+    }
+
+
+    .weoffer {
+        font-family: "Roboto", sans-serif;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 38.4px;
+        text-align: center;
+
+    }
+
+    .keyfaturs {
+        font-family: Circular Std;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 19.2px;
+        text-align: center;
+
+    }
+
+    .contaynery {
+        font-family: Inter;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 25.6px;
+        text-align: center;
+
+    }
+
+    .momawrsrigebeliN5 {
+        margin-top: 70px;
+    }
+
+    .firstFotosDIv {
+        flex-direction: column;
+    
+    }
+
+    .imagesStrings {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 8px;
+
+    }
+
+    .lorema {
+        font-family: Inter;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 28.8px;
+        width: 72%;
+
+    }
+    .secondFotosDiv{
+        flex-direction: column;
+
+    }
+    .imagseStrinSgN2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 8px; 
+
+    }
+    .itHAz{
+        font-family: Inter;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 28.8px;
+        width: 72%; 
+    }
+    .meotxerFOtosDiv{
+        flex-direction: column;
+    }
+.imagestringN3{
+    display: flex;
     flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 8px; 
 }
-.Xut500{
-    gap: 0px;
-}
-.TwuBlocks-Divfle{
-    gap: 16px;
-    flex-direction: column;
+.loereisNt{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28.8px;
+    width: 72%;
 }
 
-.MEotxeBIG-SecTion{
-    margin-top: 32px;
+
+.contynaryy{
+    font-family: Circular Std;
+font-size: 16px;
+font-weight: 450;
+line-height: 25.6px;
+text-align: left;
+width: 80%;
 }
-   
+
+
+
+
+
+.gappN3{
+    display: none;
+}
+.gapN2{
+    display: none;
+}
+.gapN1{
+    display: none;
+}
+.footer-Rigtconteiner{
+    gap: 64px;
+    flex-direction: column;
+}
 
 }
 
@@ -403,55 +589,94 @@ text-align: center;
         padding-top: 20px;
     }
 
-       .pirveliTevzi{
+    .pirveliTevzi {
         display: flex;
         flex-direction: column;
         align-items: center;
     }
-    .fristblockA{
+
+    .fristblockA {
         text-align: center;
         align-items: center;
     }
-.tevzisTeqsti{
-    width: 100%;
-    text-align: center;
-    align-items: center;
-}
-.malidves{
-    width: 100%;
-    text-align: center;
-    align-items: center; 
-}
-.otXiXuti{
 
-  margin-left: 90px;
+    .tevzisTeqsti {
+        width: 100%;
+        text-align: center;
+        align-items: center;
+    }
 
-    text-align: center;
-    align-items: center;  
-}
-.tTasStrings{
-    width: 100%;
-    text-align: center ;
-      align-items: center;
-}
-.untedarab{
-    width: 100%;
-    text-align: center ;
-      align-items: center; 
-}
-.xutt{
-  margin-left: 60px;
-}
+    .malidves {
+        width: 100%;
+        text-align: center;
+        align-items: center;
+    }
+
+    .otXiXuti {
+
+        margin-left: 90px;
+
+        text-align: center;
+        align-items: center;
+    }
+
+    .tTasStrings {
+        width: 100%;
+        text-align: center;
+        align-items: center;
+    }
+
+    .untedarab {
+        width: 100%;
+        text-align: center;
+        align-items: center;
+    }
+
+    .xutt {
+        margin-left: 60px;
+    }
 
 
 
-.oriBLokiDIv{
-    gap: 6px;
-}
-.Xut500{
-    gap: 0px;
-}
-.TwuBlocks-Divfle{
-    gap: 6px;
+    .oriBLokiDIv {
+        gap: 6px;
+    }
+
+    .Xut500 {
+        gap: 0px;
+    }
+
+    .TwuBlocks-Divfle {
+        gap: 6px;
+    }
+
+
+
+    .weoffer {
+        margin-top: 10px;
+    }
+
+    .contaynery {
+        margin-top: 10px;
+    }
+
+    .momawrsrigebeliN5 {
+        margin-top: 70px;
+    }
+
+    .iconesDiv{
+        justify-content: center;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    
+.contynaryy{
+    font-family: Circular Std;
+font-size: 14px;
+font-weight: 450;
+line-height: 25.6px;
+text-align: left;
+width: 100%;
 }
 }

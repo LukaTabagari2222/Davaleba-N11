@@ -4,7 +4,6 @@
     justify-content: space-between;
     width: 1184px;
     width: 80%;
-    background-color: aqua;
     height: 113px;
     margin: 0 auto;
 }
@@ -98,7 +97,6 @@
     display: flex;
     max-width: 1184px;
     max-width: 80%;
-    background-color: rgb(96, 102, 102);
     margin: auto;
 }
 
@@ -115,7 +113,6 @@
     flex-direction: column;
     gap: 43px;
     max-width: 412px;
-    background-color: red;
     margin-top: 64px;
 }
 
@@ -186,7 +183,6 @@
     max-width: 1184px;
     max-width: 80%;
     margin: auto;
-    background-color: rgb(83, 83, 83);
 
 
 }
@@ -231,8 +227,7 @@
 
 .DidiSeqciaN3 {
     max-width: 1184px;
-    max-width: 80%;
-    background-color: cadetblue;
+    max-width: 90%;
     margin: auto;
 }
 
@@ -340,8 +335,8 @@
 
 .mtta {
     display: block;
-    max-width: 373px;
-    max-width: 100%;
+    width: 100%;
+
 
 }
 
@@ -380,8 +375,8 @@
 
 .TevzebisMatvariDIvi {
     display: flex;
-    justify-content: space-between;
-    background-color: red;
+    justify-content: center;
+    gap: 50px;
 }
 
 .tTasStrings {
@@ -418,7 +413,6 @@
 
 .MEotxeBIG-SecTion {
     max-width: 1312px;
-    background-color: rgb(110, 110, 110);
     margin-top: 64px;
 }
 
@@ -434,12 +428,13 @@
 
 .right-block {
     width: 441px;
-    background-color: red;
 }
-.TwuBlocks-Divfle{
+
+.TwuBlocks-Divfle {
     display: flex;
     gap: 32px;
 }
+
 .travepalob {
     font-family: Circular Std;
     font-size: 23px;
@@ -448,64 +443,385 @@
     color: rgba(248, 94, 159, 1);
 
 }
-.wehalping{
+
+.wehalping {
     font-family: "Roboto", sans-serif;
-font-size: 44px;
-font-weight: 700;
-line-height: 52.8px;
-text-align: left;
-color: rgba(25, 24, 37, 1);
-margin-top: 16px;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 52.8px;
+    text-align: left;
+    color: rgba(25, 24, 37, 1);
+    margin-top: 16px;
 
 }
-.Contaryy{
-font-family: Inter;
-font-size: 18px;
-font-weight: 400;
-line-height: 28.8px;
-color: rgba(25, 24, 37, 0.5);
-margin-top: 32px;
+
+.Contaryy {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28.8px;
+    color: rgba(25, 24, 37, 0.5);
+    margin-top: 32px;
 
 }
-.otxiBliki{
+
+.otxiBliki {
     display: flex;
     flex-direction: column;
     gap: 32px;
     margin-top: 64px;
-    
-}
-.TuHAnadvrid{
-font-family: Circular Std;
-font-size: 35px;
-font-weight: 700;
-line-height: 42px;
-text-align: left;
-color: rgba(255, 87, 34, 1);
 
 }
-.Hokidey{
-font-family: Inter;
-font-size: 18px;
-font-weight: 400;
-line-height: 28.8px;
-color: rgba(25, 24, 37, 1);
+
+.TuHAnadvrid {
+    font-family: Circular Std;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 42px;
+    text-align: left;
+    color: rgba(255, 87, 34, 1);
 
 }
-.Xut500{
+
+.Hokidey {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28.8px;
+    color: rgba(25, 24, 37, 1);
+
+}
+
+.Xut500 {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width:204px;
+    width: 204px;
     width: 100%;
     border: solid 1px;
-    height:151px;
+    height: 151px;
     gap: 16px;
     border-radius: 32px;
     border-color: rgb(168, 168, 162);
-      
+
 }
-.oriBLokiDIv{
+
+.oriBLokiDIv {
     display: flex;
+    gap: 32px;
+}
+
+.mexUTebigSection {
+    max-width: 1312px;
+    max-width: 95%;
+    margin: auto;
+
+}
+
+.momawrsrigebeliN5 {
+    margin-top: 137px;
+}
+
+.keyfaturs {
+    font-family: Circular Std;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 27.6px;
+    text-align: left;
+    color: rgba(248, 94, 159, 1);
+}
+
+.weoffer {
+    font-family: "Roboto", sans-serif;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 52.8px;
+    text-align: left;
+    color: rgba(25, 24, 37, 1);
+    margin-top: 16px;
+
+}
+
+.contaynery {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: left;
+    color: rgba(25, 24, 37, 0.5);
+    width: 60%;
+    margin-top: 32px;
+
+}
+
+.Stringsdiv {
+    display: flex;
+    flex-direction: column;
+}
+
+.imageLogoN1 {
+    width: 100px;
+    height: 100px;
+
+
+
+}
+
+.wearBest {
+    font-family: Circular Std;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 27.6px;
+    text-align: left;
+    color: rgba(25, 24, 37, 1);
+
+}
+
+.lorema {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: left;
+    color: rgba(25, 24, 37, 0.5);
+}
+
+.kalendariamge {
+    width: 100px;
+    height: 100px;
+
+}
+
+.schedyule {
+    font-family: Circular Std;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 27.6px;
+    text-align: left;
+    color: rgba(25, 24, 37, 1);
+}
+
+.itHAz {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: left;
+    color: rgba(25, 24, 37, 0.5);
+
+}
+
+.foftbalIMg {
+    width: 100px;
+    height: 100px;
+}
+
+.GetDisorde {
+    font-family: Circular Std;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 27.6px;
+    text-align: left;
+    color: rgba(25, 24, 37, 1);
+}
+
+.loereisNt {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: left;
+    color: rgba(25, 24, 37, 0.5);
+
+}
+
+.meotxerFOtosDiv {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.secondFotosDiv {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.firstFotosDIv {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.marges-conteners {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin-top: 64px;
+}
+
+.fofterDiv {
+    width: 1184px;
+    width: 90%;
+    /* background-color: blueviolet; */
+    margin: auto;
+
+
+}
+
+.fofoterDivWesrig {
+    display: flex;
+    margin-top: 163px;
+}
+
+.trevelN2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 40px;
+    text-align: left;
+
+}
+
+.logossdiv {
+    display: flex;
+    gap: 16px;
+}
+
+.contynaryy {
+    font-family: Circular Std;
+    font-size: 23px;
+    font-weight: 450;
+    line-height: 36.8px;
+    color: rgba(25, 24, 37, 0.5);
+    width: 70%;
+    margin-top: 32px;
+}
+
+.logoumG {
+    width: 40px;
+    height: 40px;
+}
+
+.iconesCals {
+    width: 32px;
+    height: 32px;
+
+}
+
+.iconesDiv {
+    display: flex;
+    gap: 32px;
+    margin-top: 64px;
+}
+#companya{
+font-family: Circular Std;
+font-size: 23px;
+font-weight: 700;
+line-height: 27.6px;
+text-align: left;
+color: rgba(25, 24, 37, 1);
+
+}
+.onliCases{
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 28.8px;
+text-align: left;
+color: rgba(25, 24, 37, 0.75);
+
+}
+.gaqraaa{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+#comatctyy{
+font-family: Circular Std;
+font-size: 23px;
+font-weight: 700;
+line-height: 27.6px;
+text-align: left;
+color: rgba(25, 24, 37, 1);
+
+}
+.bigONliSrings{
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 28.8px;
+text-align: left;
+color: rgba(25, 24, 37, 0.75);
+
+}
+.footer-Rigtconteiner{
+    display: flex;
+    gap: 32px;
+}
+#meeTyou{
+font-family: Circular Std;
+font-size: 23px;
+font-weight: 700;
+line-height: 27.6px;
+text-align: left;
+color: rgba(25, 24, 37, 1);
+
+}
+.gappN3{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+.ciferbi{
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 28.8px;
+text-align: left;
+color: rgba(25, 24, 37, 0.75);
+width: 80%;
+
+}
+.imfoo{
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 28.8px;
+text-align: left;
+color: rgba(25, 24, 37, 0.75);
+
+}
+.Rstret{
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 28.8px;
+text-align: left;
+color: rgba(25, 24, 37, 0.75);
+width: 90%;
+}
+.Byyas{
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 28.8px;
+text-align: left;
+color: rgba(25, 24, 37, 0.75);
+}
+.gaqraN3{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+.gapN2{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+.gapN1{
+    display: flex;
+    flex-direction: column;
     gap: 32px;
 }
