@@ -285,6 +285,7 @@
 
 .fristblockA {
     display: flex;
+    margin-top: 32px;
 }
 
 .paradisea {
@@ -343,6 +344,7 @@
 .tevzisTeqsti {
     display: flex;
     gap: 38px;
+    margin-top: 32px;
 }
 
 .oCemawith {
@@ -381,6 +383,7 @@
 
 .tTasStrings {
     display: flex;
+    margin-top: 32px;
 }
 
 .motivation {
