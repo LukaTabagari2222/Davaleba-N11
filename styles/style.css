@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&family=Ga+Maamli&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Sofia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&family=Ga+Maamli&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Sofia&display=swap');
 .hederDIv {
     display: flex;
     align-items: center;
@@ -288,7 +290,6 @@
 }
 
 .paradisea {
-    font-family: Circular Std;
     font-size: 23px;
     font-weight: 700;
     line-height: 27.6px;
@@ -348,7 +349,6 @@
 
 .oCemawith {
     width: 185px;
-    font-family: Circular Std;
     font-size: 23px;
     font-weight: 700;
     line-height: 27.6px;
@@ -379,6 +379,11 @@
     justify-content: center;
     gap: 50px;
 }
+.TevzebisMatvariDIvi p,h2{
+    font-family: "Calistoga", serif;
+
+}
+
 
 .tTasStrings {
     display: flex;
@@ -387,7 +392,6 @@
 
 .motivation {
     width: 200px;
-    font-family: Circular Std;
     font-size: 23px;
     font-weight: 700;
     line-height: 27.6px;
